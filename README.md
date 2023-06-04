@@ -1,5 +1,6 @@
-<h1 align="center">![logo](https://github.com/Nasir-Saeed/Nasir-Saeed/blob/main/WEBSITE%20DEVELOPEMENT.png)
-</h1>
+<div align="center">![logo](https://github.com/Nasir-Saeed/Nasir-Saeed/blob/main/WEBSITE%20DEVELOPEMENT.png)
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Nasir Saeed</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
