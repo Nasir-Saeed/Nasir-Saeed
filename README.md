@@ -1,6 +1,4 @@
 
-(https://github.com/Nasir-Saeed/Nasir-Saeed/assets/92154367/2fb6a784-8c2f-4e17-8274-d219b737a576)
-
 🔭 I’m currently working on my own Start-Up
 
 🌱 I’m currently learning Programming Languages and Techniques.
