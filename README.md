@@ -1,4 +1,3 @@
-
 🔭 I’m currently working on my own Start-Up
 
 🌱 I’m currently learning Programming Languages and Techniques.
