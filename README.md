@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [https://nasir-saeed.github.io/Portfolio/](https://nasir-saeed.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at https://nasir-saeed-portfolio.netlify.app/
 
 - 💬 Ask me about **javascript, reactjs, nextjs**
 
