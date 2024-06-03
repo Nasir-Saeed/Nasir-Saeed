@@ -25,7 +25,7 @@
 
 [![Nasir-Saeed's GitHub | Stats](https://stats.quine.sh/Nasir-Saeed/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Nasir-Saeed)
 
-<h3 align="left">Languages Over Time: </h3>
+<h3 align="left">Stats: Languages Over Time</h3>
 
 [![Nasir-Saeed's GitHub | Languages Over Time](https://stats.quine.sh/Nasir-Saeed/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Nasir-Saeed)
 
