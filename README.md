@@ -57,6 +57,19 @@
 
 ###
 
+###
+
+<div align="left">
+  <h3>Typing Speed Test</h3>
+  <img  src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" />
+  <img  src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" />
+  <img  src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" />
+  <img  src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" />
+  <img  src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" />
+  <img  src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" />
+</div>
+
+###
 
 <div align="left">
 <h3>Here is my Latest Youtube Videos</h3>
